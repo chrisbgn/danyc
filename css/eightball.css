@@ -90,8 +90,9 @@ body {
         margin-right: 200px;
     }
 
-    #questionBox {
-        size: 200;
+    input {
+        width: 40%;
+        margin-right: 40px;
     }
 
     #magicBallButton {
